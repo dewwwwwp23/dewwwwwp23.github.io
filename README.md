@@ -3,4 +3,4 @@ My Page
 <br>พรรนนิตา ภู่มาลัย
 <br>Phannita Phumalai
 
-![room.jpg]
+![GitHub](images/room.jpg)
